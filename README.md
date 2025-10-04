@@ -1,5 +1,11 @@
 # Receipt Ace Hub
 
+![Login Screen](./public/Login.png)
+
+![Users Management](./public/Users%20Management.png)
+
+![Admin Overview](./public/Admin%20Overview%20Dashboard.png)
+
 ## Overview
 
 Receipt Ace Hub is a modern expense management application built with React, TypeScript, and Supabase. This application provides a complete solution for managing expenses with role-based access control, multi-level approvals, and real-time tracking.
@@ -30,57 +36,50 @@ Receipt Ace Hub is a modern expense management application built with React, Typ
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/kartik-parmar007/receipt-ace-hub.git
-   ```
+
+git clone https://github.com/kartik-parmar007/odoo-expense-management-system.git
+
+text
 
 2. Navigate to the project directory:
-   ```bash
-   cd receipt-ace-hub
-   ```
+cd odoo-expense-management-system
+
+text
 
 3. Install dependencies:
-   ```bash
-   npm install
-   ```
+npm install
+
+text
 
 4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+npm run dev
 
-The application will be available at `http://localhost:8080`.
+text
+The application will be available at `http://localhost:8081`.
 
 ## Building for Production
 
 To create a production build:
-
-```bash
 npm run build
-```
+
+text
 
 To preview the production build locally:
-
-```bash
 npm run preview
-```
+
+text
 
 ## Project Structure
 
-```
 src/
-├── components/     # Reusable UI components
-├── hooks/          # Custom React hooks
-├── integrations/   # Third-party service integrations
-├── lib/            # Utility functions and helpers
-├── pages/          # Page components
-└── App.tsx         # Main application component
-```
+├── components/ # Reusable UI components
+├── hooks/ # Custom React hooks
+├── integrations/ # Third-party service integrations
+├── lib/ # Utility functions and helpers
+├── pages/ # Page components
+└── App.tsx # Main application component
 
-## Contributing
+text
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
+## Developed For Odoo Virtual Hackathon 2025
+This project was developed for the Odoo Virtual Hackathon 2025.
