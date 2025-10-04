@@ -67,17 +67,6 @@ text
 To preview the production build locally:
 npm run preview
 
-text
-
-## Project Structure
-
-src/
-├── components/ # Reusable UI components
-├── hooks/ # Custom React hooks
-├── integrations/ # Third-party service integrations
-├── lib/ # Utility functions and helpers
-├── pages/ # Page components
-└── App.tsx # Main application component
 
 text
 
